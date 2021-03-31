@@ -11,7 +11,7 @@
 
 ![](https://github.com/edwardpraveen89/ImageScrapper-Heroku/blob/master/image-scrapper-heroku.png)
 
-Heroku Link: https://image-scrapper-app.herokuapp.com/
+Heroku Link: https://damp-brook-54113.herokuapp.com/
 
 To meet the pre-requisite for running this repo, Kindly check WebScrapper- Image PDF.
 
